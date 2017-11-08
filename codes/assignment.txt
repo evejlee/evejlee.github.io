@@ -1,24 +1,25 @@
-<tr> <td> Nov 09 17 </td> <td> Eve Lee </td> <td> Eve Lee </td> </tr>
-<tr> <td> Nov 16 17 </td> <td> Johannes Eichholz </td> <td> Christine Corbett Moran </td> </tr>
-<tr> <td> Nov 30 17 </td> <td> Coral Wheeler </td> <td> Brittany Kamai </td> </tr>
-<tr> <td> Dec 7 17 </td> <td> Alex Urban </td> <td> Andrew Wade </td> </tr>
-<tr> <td> Jan 11 18 </td> <td> Jono Squire </td> <td> Robyn Sanderson </td> </tr>
-<tr> <td> Jan 18 18 </td> <td> Brittany Kamai </td> <td> Clement Bonnerot </td> </tr>
-<tr> <td> Jan 25 18 </td> <td> Clement Bonnerot </td> <td> Stephen Taylor </td> </tr>
-<tr> <td> Feb 01 18 </td> <td> Maria Charisi </td> <td> Francois Hebert </td> </tr>
-<tr> <td> Feb 08 18 </td> <td> Michael Coughlin </td> <td> Alex Urban </td> </tr>
-<tr> <td> Feb 15 18 </td> <td> Christine Corbett Moran </td> <td> Cameron Hummels </td> </tr>
-<tr> <td> Feb 22 18 </td> <td> Andre da Silva Schneider </td> <td> Coral Wheeler </td> </tr>
-<tr> <td> Mar 01 18 </td> <td> Hiroki Nagakura </td> <td> Maria Charisi </td> </tr>
-<tr> <td> Mar 08 18 </td> <td> Cameron Hummels </td> <td> Natalia Storch </td> </tr>
-<tr> <td> Mar 15 18 </td> <td> Stephen Taylor </td> <td> Johannes Eichholz </td> </tr>
-<tr> <td> Mar 22 18 </td> <td> TJ Massinger </td> <td> Jono Squire </td> </tr>
-<tr> <td> Mar 29 18 </td> <td> Yiqiu Ma </td> <td> Astrid Lamberts </td> </tr>
-<tr> <td> Apr 05 18 </td> <td> Davide Gerosa </td> <td> Jess McIver </td> </tr>
-<tr> <td> Apr 12 18 </td> <td> Jess McIver </td> <td> TJ Massinger </td> </tr>
-<tr> <td> Apr 19 18 </td> <td> Andrew Wade </td> <td> Shea Garrison-Kimmel </td> </tr>
-<tr> <td> Apr 26 18 </td> <td> Natalia Storch </td> <td> Yiqiu Ma </td> </tr>
-<tr> <td> May 03 18 </td> <td> Shea Garrison-Kimmel </td> <td> Davide Gerosa </td> </tr>
-<tr> <td> May 10 18 </td> <td> Astrid Lamberts </td> <td> Michael Coughlin </td> </tr>
-<tr> <td> May 17 18 </td> <td> Francois Hebert </td> <td> Andre da Silva Schneider </td> </tr>
-<tr> <td> May 24 18 </td> <td> Robyn Sanderson </td> <td> Hiroki Nagakura </td> </tr>
+<tr> <td> Nov 09 17 </td> <td> Natalia Storch </td> <td> Johannes Eichholz </td> </tr>
+<tr> <td> Nov 16 17 </td> <td> Yiqiu Ma </td> <td> Brittany Kamai </td> </tr>
+<tr> <td> Nov 30 17 </td> <td> Jono Squire </td> <td> Astrid Lamberts </td> </tr>
+<tr> <td> Dec 07 17 </td> <td> Michael Coughlin </td> <td> Shea Garrison-Kimmel </td> </tr>
+<tr> <td> Jan 11 18 </td> <td> Eve Lee </td> <td> Natalia Storch </td> </tr>
+<tr> <td> Jan 18 18 </td> <td> Shea Garrison-Kimmel </td> <td> Coral Wheeler </td> </tr>
+<tr> <td> Jan 25 18 </td> <td> Johannes Eichholz </td> <td> Leo Stein </td> </tr>
+<tr> <td> Feb 01 18 </td> <td> Francois Hebert </td> <td> Christine Corbett Moran </td> </tr>
+<tr> <td> Feb 08 18 </td> <td> Hiroki Nagakura </td> <td> Michael Coughlin </td> </tr>
+<tr> <td> Feb 15 18 </td> <td> Coral Wheeler </td> <td> Yiqiu Ma </td> </tr>
+<tr> <td> Feb 22 18 </td> <td> Robyn Sanderson </td> <td> Stephen Taylor </td> </tr>
+<tr> <td> Mar 01 18 </td> <td> Clement Bonnerot </td> <td> Jono Squire </td> </tr>
+<tr> <td> Mar 08 18 </td> <td> Stephen Taylor </td> <td> Clement Bonnerot </td> </tr>
+<tr> <td> Mar 15 18 </td> <td> Maria Charisi </td> <td> Maria Charisi </td> </tr>
+<tr> <td> Mar 22 18 </td> <td> Brittany Kamai </td> <td> TJ Massinger </td> </tr>
+<tr> <td> Mar 29 18 </td> <td> Davide Gerosa </td> <td> Andre da Silva Schneider </td> </tr>
+<tr> <td> Apr 05 18 </td> <td> Andrew Wade </td> <td> Alex Urban </td> </tr>
+<tr> <td> Apr 12 18 </td> <td> TJ Massinger </td> <td> Robyn Sanderson </td> </tr>
+<tr> <td> Apr 19 18 </td> <td> Leo Stein </td> <td> Eve Lee </td> </tr>
+<tr> <td> Apr 26 18 </td> <td> Cameron Hummels </td> <td> Jess McIver </td> </tr>
+<tr> <td> May 03 18 </td> <td> Jess McIver </td> <td> Francois Hebert </td> </tr>
+<tr> <td> May 10 18 </td> <td> Christine Corbett Moran </td> <td> Cameron Hummels </td> </tr>
+<tr> <td> May 17 18 </td> <td> Alex Urban </td> <td> Andrew Wade </td> </tr>
+<tr> <td> May 24 18 </td> <td> Astrid Lamberts </td> <td> Davide Gerosa </td> </tr>
+<tr> <td> May 31 18 </td> <td> Andre da Silva Schneider </td> <td> Hiroki Nagakura </td> </tr>
